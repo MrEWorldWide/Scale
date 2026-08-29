@@ -1,2 +1,6 @@
 # Scale
-Scale equipment integration and testing
+
+Integrate scale hardware to a computer. Test and print labels. Typically requires a COM server if hardware is lacking solutions.
+
+
+
