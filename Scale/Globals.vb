@@ -7,8 +7,6 @@ Imports System.Threading
 Imports System.Timers
 
 
-
-
 Module Globals
 
     Public ErrorReason As String

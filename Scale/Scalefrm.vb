@@ -2,8 +2,7 @@
 Imports System.IO.Ports
 Imports System.Threading
 Imports Scale.Globals
-Imports System.Drawing
-Imports System.Windows.Forms
+
 
 Public Class Scalefrm
 
